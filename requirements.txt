@@ -1,0 +1,10 @@
+# Game will be in pygame
+pygame
+
+# Notebooks for scratchwork
+notebook
+
+# For analyzing the economy
+numpy
+matplotlib
+scipy
