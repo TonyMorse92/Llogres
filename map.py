@@ -5,7 +5,7 @@ import time
 
 black = (0,0,0)
 white = (255,255,255)
-grey = (128,128,128)
+grey = (240,128,128)
 rows = 400
 columns = 400
 cell_size = 40
